@@ -1,5 +1,6 @@
 # enterprise-scale-config
-Represents the enterprise scale config for a terraform driven enterprise scale deployment of Azure
+
+Represents the enterprise scale config for a terraform driven enterprise scale deployment of Azure. See [the terraform module repository](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale)
 
 
 ## usage
